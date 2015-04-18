@@ -45,4 +45,4 @@ Temporary Items
 # Intellij files
 *.iml
 .idea
-
+target/
